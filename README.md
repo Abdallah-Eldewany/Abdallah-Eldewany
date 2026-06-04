@@ -33,9 +33,7 @@
     <td valign="top" width="50%" align="center">
       <h2>GitHub Statistics 📊</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Eldewany&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
-      
       <br /><br />
-      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Eldewany&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
