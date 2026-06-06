@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Eldewany</h1>
 
 <p align="center">
-  <b>AI Engineer / Automation Specialist</b>
+  <b>AI Engineer / Machine Learning & Computer Vision Specialist</b>
 </p>
 
 ### Connect with me:
