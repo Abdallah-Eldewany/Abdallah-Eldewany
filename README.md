@@ -2,8 +2,6 @@
 
 ### AI, Machine Learning, and Computer Vision Engineer | Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdallah-Eldewany&label=Profile views&color=0e75b6&style=flat" alt="Abdallah-Eldewany" /> </p>
-
 - 🔭 I'm currently working on **Advanced AI workflows, Computer Vision applications, and Intelligent Automation solutions.**
 
 - 🌱 I'm currently learning **Agentic workflows, Deep Learning optimization techniques, and state-of-the-art Computer Vision models.**
